@@ -51,7 +51,8 @@ Here are some ideas to get you started:
 
 ## 📬 Contact
 Email: luyanakat@proton.me
-[!More](http://luyanakat.me/contact/)
+
+[More](http://luyanakat.me/contact/)
 
 ## ⚡ GitHub's Stats
 
