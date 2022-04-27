@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 ## 💬 About me
-- ⚡ Name: Tran Cuong
+- ⚡ Name: Tran Chi Cuong
 - 🏛️ Education: Academy of Cryptography Techniques 
 - 🌱 Currently learning Flutter & native Android Development
 - ☕ Interests:  📺 Watching anime • 📖 Books • 👩‍💻 Programming • 📼 Sub anime
