@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 ![Dart](https://img.shields.io/badge/dart-%2314354C.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%23ED8B00.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/kotlin-%2314354C.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## ⚙️ OS & Tools:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -47,6 +48,10 @@ Here are some ideas to get you started:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 📬 Contact
+Email: luyanakat@proton.me
+[!More](http://luyanakat.me/contact/)
 
 ## ⚡ GitHub's Stats
 
