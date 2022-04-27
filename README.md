@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luyanakat&theme=react&hide_border=false)](https://github.com/luyanakat)
  
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+<!-- ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only) -->
 
 | <a href="https://github.com/luyanakat"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luyanakat&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=react" alt="LuyanaKat's github stats" /></a> | <a href="https://github.com/luyanakat"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luyanakat&layout=compact&hide_border=true&hide=css,html&langs_count=10&theme=react" /></a> |
 | ------------- | ------------- |
