@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ![Dart](https://img.shields.io/badge/dart-%2314354C.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%23ED8B00.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/kotlin-%2314354C.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2314354C.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## ⚙️ OS & Tools:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
