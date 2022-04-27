@@ -4,12 +4,9 @@
   <div>
     <h1> Tran Cuong</h1> 
     <h3>not normie anymore</h3>
-    <p> <a href="http://luyanakat.me/">My Blog</a></p>
+    <p> Check my blog: <a href="http://luyanakat.me/">Luyana Kat Blog</a></p>
   </div>
   
-  <div>
-    <img align="" alt="My languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luyanakat&theme=tokyonight&hide=html&langs_count=6&layout=compact"/>
-  </div>
 </div>
 <br>
 <hr>
