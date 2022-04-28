@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 ## 💬 About me
-- ⚡ Name: Tran Chi Cuong
+- ⚡ Name: Tran Cuong
 - 🏛️ University: Academy of Cryptography Techniques 
 - 🌱 Currently learning Flutter & native Android Development
 - ☕ Interests:  📺 Watching anime • 📖 Books • 👩‍💻 Programming • 📼 Sub anime
@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 
 ## 📬 Contact
 Email: luyanakat@proton.me
+       luyanakat@tutanota.de
 
 [More](http://luyanakat.me/contact/)
 
