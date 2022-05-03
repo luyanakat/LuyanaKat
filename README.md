@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 
 ## 📬 Contact
 Email:
- * luyanakat@proton.me
- 
  * luyanakat@tutanota.de
+ 
+ * luyanakat@proton.me
 
 [More](http://luyanakat.me/contact/)
 
