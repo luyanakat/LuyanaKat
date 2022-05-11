@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 Email:
  * luyanakat@tutanota.de
  
- * luyanakat@proton.me
+ * luyanakat@gmail.com
 
 [More](http://luyanakat.me/contact/)
 
