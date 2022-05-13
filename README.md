@@ -4,7 +4,7 @@
   <div>
     <h1> Tran Cuong</h1> 
     <h3>not normie anymore</h3>
-    <p> Check my blog: <a href="http://luyanakat.me/" target=_blank> ~\Luyana Kat</a></p>
+    <p> Check my blog: <a href="http://luyanakat.me/" target=blank> ~\Luyana Kat</a></p>
   </div>
   
 </div>
