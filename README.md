@@ -10,7 +10,7 @@
 </div>
 <br>
 <hr>
-<div style="width: 50%; margin: auto">
+<div style="width: 40%; margin: auto">
 <img src="./sakura.gif"/>
 </div>
 <hr>
