@@ -10,8 +10,9 @@
 </div>
 <br>
 <hr>
-![](sakura.gif)
-
+<div style="width: 50%; margin: auto">
+<img src="./sakura.gif"/>
+</div>
 <hr>
 
 <!--
