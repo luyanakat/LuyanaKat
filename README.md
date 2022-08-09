@@ -6,7 +6,7 @@
     <h3>not normie anymore</h3>
     <p> Check my blog: <a href="http://luyanakat.me/" target=blank> ~\Luyana Kat</a></p>
   </div>
-  
+ </div>
 
 <hr>
 
