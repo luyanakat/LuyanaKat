@@ -7,12 +7,7 @@
     <p> Check my blog: <a href="http://luyanakat.me/" target=blank> ~\Luyana Kat</a></p>
   </div>
   
-</div>
-<br>
-<hr>
-<div style="width: 40%; margin: auto">
-<img src="./sakura.gif"/>
-</div>
+
 <hr>
 
 <!--
