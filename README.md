@@ -3,7 +3,7 @@
 <div align="center">
   <div>
     <h1> Tran Cuong</h1> 
-    <p> Check my blog: [~/Luyana Kat](luyanakat.me){:target="_blank"}</p>
+    <p> Check my blog: <a href="luyanakat.me" target="_blank">~\Luyana Kat</a></p>
   </div>
  </div>
 
