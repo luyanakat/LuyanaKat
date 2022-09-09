@@ -3,27 +3,11 @@
 <div align="center">
   <div>
     <h1> Tran Cuong</h1> 
-    <h3>not normie anymore</h3>
     <p> Check my blog: <a href="http://luyanakat.me/" target=blank> ~\Luyana Kat</a></p>
   </div>
  </div>
 
 <hr>
-
-<!--
-**luyanakat/LuyanaKat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 💬 About me
 - ⚡ Name: Tran Cuong 
@@ -50,10 +34,10 @@ Here are some ideas to get you started:
 
 ## 📬 Contact
 Email:
- * luyanakat@tutanota.de
- 
+
  * luyanakat@gmail.com
 
+ * luyanakat@tutanota.de
 [More](http://luyanakat.me/contact/)
 
 ## ⚡ GitHub's Stats
