@@ -3,7 +3,24 @@
 <div align="center">
   <div>
     <h1> Tran Cuong</h1> 
-    <p> Check my blog: <a href="https://luyanakat.me/" target="_blank">~\Luyana Kat</a></p>
+    <div align="center">
+    <a href="https://luyanakat.me/" target="_blank">
+        <img src=https://img.shields.io/badge/BLOG-luyanakat.me-red?&labelColor=101010&style=for-the-badge alt=blog style="margin-bottom: 5px;" height="26" />
+    </a>
+<!--     <a href="https://ashpex.now.sh/" target="_blank">
+        <img src=https://img.shields.io/badge/Portfolio-ashpex.now.sh-%234ea94b?&labelColor=101010&style=for-the-badge alt=portfolio style="margin-bottom: 5px;" height="26" />
+    </a> -->
+<!--     <a href="https://linkedin.com/in/vybuint" target="_blank">
+        <img src=https://img.shields.io/badge/vybuint-blue?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="26" />
+    </a> -->
+    <a href="https://t.me/luyanakat" target="_blank">
+        <img src=https://img.shields.io/badge/@luyanakat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white style="margin-bottom: 5px;" height="26"/>
+    </a>
+<!--       <a href="https://matrix.to/#/@ashpex:kde.org)" target="_blank">
+        <img src=https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white style="margin-bottom: 5px;" height="26"/>
+    </a> -->
+</div>
+
   </div>
  </div>
 
@@ -25,6 +42,8 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%23ED8B00.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-%2314354C.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## ⚙️ OS & Tools:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
