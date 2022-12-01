@@ -29,13 +29,13 @@
 ## 💬 About me
 - ⚡ Name: Tran Cuong 
 - 🏛️ University: Academy of Cryptography Techniques 
-- 🌱 Currently learning Flutter & native Android Development
+- 🌱 Currently Go & BE-development
 - ☕ Interests:  📺 Watching anime • 📖 Books • 👩‍💻 Programming • 📼 Sub anime
 - [More info](http://luyanakat.me/about/)
 
 ### ⚙️ Technologies
-- **Mobile dev:** kotlin, java, dart, flutter, jetpack compose.
-- **Web**: html, css, go.
+- **Web**: html, css, js, go.
+- **Mobile dev:** kotlin, java, dart, flutter.
 - **DBMS**: mysql, sqlite, postgresql.
 - **Misc**: linux, bash, git.
 - **Tools**: vscode, vim, intellij, android studio.
