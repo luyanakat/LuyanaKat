@@ -34,10 +34,10 @@
 - [More info](http://luyanakat.me/about/)
 
 ### ⚙️ Technologies
-- **Web**: html, css, js, go.
+- **BE**: js, go.
 - **Mobile dev:** kotlin, java, dart, flutter.
 - **DBMS**: mysql, sqlite, postgresql.
-- **Misc**: linux, bash, git.
+- **Misc**: linux, bash, git, docker
 - **Tools**: vscode, vim, intellij, android studio.
 
 ## 📬 Contact
