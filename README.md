@@ -34,9 +34,9 @@
 - [More info](http://luyanakat.me/about/)
 
 ### ⚙️ Technologies
-- **BE**: js, go.
+- **BE**: go.
 - **Mobile dev:** kotlin, java, dart, flutter.
-- **DBMS**: mysql, sqlite, postgresql.
+- **DBMS**: mysql, postgresql.
 - **Misc**: linux, bash, git, docker
 - **Tools**: vscode, vim, intellij, android studio.
 
