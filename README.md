@@ -9,13 +9,15 @@
     </a>
 <!--     <a href="https://ashpex.now.sh/" target="_blank">
         <img src=https://img.shields.io/badge/Portfolio-ashpex.now.sh-%234ea94b?&labelColor=101010&style=for-the-badge alt=portfolio style="margin-bottom: 5px;" height="26" />
-    </a> -->
-<!--     <a href="https://linkedin.com/in/vybuint" target="_blank">
-        <img src=https://img.shields.io/badge/vybuint-blue?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="26" />
-    </a> -->
+<!--     </a> -->
+    <a href="https://www.linkedin.com/in/cuong-tran-159663274" target="_blank">
+        <img src=https://img.shields.io/badge/cuongtran-blue?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="26"/>
+    </a> 
     <a href="https://t.me/luyanakat" target="_blank">
         <img src=https://img.shields.io/badge/@luyanakat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white style="margin-bottom: 5px;" height="26"/>
     </a>
+      
+      
 <!--       <a href="https://matrix.to/#/@ashpex:kde.org)" target="_blank">
         <img src=https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white style="margin-bottom: 5px;" height="26"/>
     </a> -->
