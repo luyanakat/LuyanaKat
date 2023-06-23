@@ -39,7 +39,7 @@
 - **BE**: go.
 - **Mobile dev:** kotlin, java, dart, flutter.
 - **DBMS**: mysql, postgresql.
-- **Misc**: linux, bash, git, docker
+- **Misc**: linux, bash, git, docker, terraform
 - **Tools**: vscode, vim, intellij, android studio.
 
 ## 📬 Contact
