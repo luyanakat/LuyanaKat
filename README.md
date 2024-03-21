@@ -4,8 +4,8 @@
   <div>
     <h1> Tran Cuong</h1> 
     <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=1000&color=7A95C9&center=true&width=435&lines=Dead+person+on+internet,+buyfag+uji+someday">
-      <br>
+<!--         <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=1000&color=7A95C9&center=true&width=435&lines=Dead+person+on+internet,+buyfag+uji+someday">
+      <br> -->
     <div align="center">
     <a href="https://luyanakat.github.io/" target="_blank">
         <img src=https://img.shields.io/badge/BLOG-luyanakat-red?&labelColor=101010&style=for-the-badge alt=blog style="margin-bottom: 5px;" height="26" />
