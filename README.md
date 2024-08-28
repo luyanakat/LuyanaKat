@@ -4,6 +4,7 @@
   <div>
     <h1> Tran Cuong</h1> 
     <br>
+    
 <!--         <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=1000&color=7A95C9&center=true&width=435&lines=Dead+person+on+internet,+buyfag+uji+someday">
       <br> -->
     <div align="center">
@@ -66,3 +67,5 @@ Email:
 | ------------- | ------------- |
 
 </div>
+
+<a href="https://app.daily.dev/luyanakat"><img src="https://api.daily.dev/devcards/v2/YKRkxsDPStxGdrPKt4FjH.png?r=ua4&type=default" width="356" alt="Trần Cường's Dev Card"/></a>
