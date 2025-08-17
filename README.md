@@ -64,6 +64,5 @@ Email:
  -->
 | <a href="https://github.com/luyanakat"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luyanakat&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=react" alt="LuyanaKat's github stats" /></a> | <a href="https://github.com/luyanakat"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luyanakat&layout=compact&hide_border=true&hide=css,html&langs_count=10&theme=react" /></a> |
 | ------------- | ------------- |
-<a href="https://app.daily.dev/luyanakat"><img src="https://api.daily.dev/devcards/v2/YKRkxsDPStxGdrPKt4FjH.png?r=ua4&type=default" width="356" alt="Trần Cường's Dev Card"/></a>
 
 </div>
